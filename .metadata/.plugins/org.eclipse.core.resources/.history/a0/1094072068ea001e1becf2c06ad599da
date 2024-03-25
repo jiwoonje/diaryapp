@@ -1,0 +1,7 @@
+package com.lab.DiaryAppBE.service;
+
+
+@Service
+public class DiaryService {
+
+}

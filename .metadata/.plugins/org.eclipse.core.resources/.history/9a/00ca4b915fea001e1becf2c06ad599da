@@ -1,0 +1,8 @@
+package com.lab.DiaryAppBE.repository;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface DiaryRepository extends JpaRepositoy<Diary, Integer> {
+
+}

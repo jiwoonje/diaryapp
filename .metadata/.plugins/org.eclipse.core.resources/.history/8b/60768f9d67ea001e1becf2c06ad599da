@@ -1,0 +1,5 @@
+package com.lab.DiaryAppBE.exception;
+
+public class ResourceNotFoundException {
+
+}

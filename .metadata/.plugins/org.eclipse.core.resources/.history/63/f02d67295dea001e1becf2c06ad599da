@@ -1,0 +1,5 @@
+package repository;
+
+public interface DiaryRepository extends JpaRepositoy<Diary, int>{
+
+}
